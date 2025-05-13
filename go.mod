@@ -1,4 +1,4 @@
-module github.com/ramen-badr/Protoc
+module github.com/ramen-badr/Protoc/gen/go/sso/ssov1
 
 go 1.24.2
 
