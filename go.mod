@@ -1,4 +1,4 @@
-module proto
+module github.com/ramen-badr/Protoc
 
 go 1.24.2
 
